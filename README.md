@@ -7,5 +7,8 @@ I am a student at Upgrad school of technology ,currently learning Git and GitHub
 - Problem solving
 - Basic Git
 
+## Projects
+- ai chatbot : one line about it 
+- random game : one line about it 
 
 
