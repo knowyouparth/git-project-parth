@@ -11,4 +11,6 @@ I am a student at Upgrad school of technology ,currently learning Git and GitHub
 - ai chatbot : one line about it 
 - random game : one line about it 
 
-
+## Social links
+- GitHub : knowyouparth
+- LinkedIn : Parth bhurrak
